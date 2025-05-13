@@ -36,8 +36,8 @@ Transform {
     }
     geometry Text {
       string [
-        "Hello",
-        "World!"
+        "amego amego",
+        "tenes cigarro!"
       ]
       fontStyle FontStyle {
         justify [
